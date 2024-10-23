@@ -1,0 +1,154 @@
+[
+    {
+        "question": "How do I check my account balance using the FCMB mobile app?",
+        "answer": "Log in to the FCMB mobile app and select 'Account Summary' to check your current account balance. You can also ask the bot for your account balance by providing your account number."
+    },
+    {
+        "question": "Can I transfer funds between my FCMB accounts using the app?",
+        "answer": "Yes, you can transfer funds between your FCMB accounts through the mobile app by selecting the 'Transfer' option."
+    },
+    {
+        "question": "How do I block my FCMB debit card?",
+        "answer": "To block your FCMB debit card, log in to your online banking or mobile app, go to the 'Card Management' section, and select 'Block Card.'"
+    },
+    {
+        "question": "What is the daily transfer limit using the FCMB mobile app?",
+        "answer": "The daily transfer limit using the FCMB mobile app is ₦1,000,000 for individual accounts, but you can increase this by visiting a branch."
+    },
+    {
+        "question": "Can I open a fixed deposit account online with FCMB?",
+        "answer": "Yes, you can open a fixed deposit account online via the FCMB mobile app or internet banking."
+    },
+    {
+        "question": "How do I apply for a loan through FCMB online banking?",
+        "answer": "Log in to FCMB online banking, navigate to the 'Loans' section, and select the loan product you are eligible for to apply."
+    },
+    {
+        "question": "How do I generate my account statement in the FCMB mobile app?",
+        "answer": "To generate your account statement, log in to the mobile app, go to 'Accounts,' and select 'Download Statement' for your desired period. The bot can help retrieve recent transactions for your account."
+    },
+    {
+        "question": "Can I pay bills through FCMB online banking?",
+        "answer": "Yes, you can pay various utility bills, such as electricity and cable TV subscriptions, through the 'Bills Payment' section in FCMB online banking."
+    },
+    {
+        "question": "How do I register for FCMB online banking?",
+        "answer": "Visit the FCMB website, click on 'Register,' and follow the steps to create your online banking profile."
+    },
+    {
+        "question": "What types of transactions can I perform using the FCMB USSD code?",
+        "answer": "With the FCMB USSD code *329#, you can check balances, transfer funds, buy airtime, and pay bills."
+    },
+    {
+        "question": "How can I activate my FCMB debit card for online transactions?",
+        "answer": "Log in to your FCMB mobile app, navigate to 'Card Management,' and select 'Activate for Online Transactions.'"
+    },
+    {
+        "question": "Can I set transaction alerts for my FCMB account?",
+        "answer": "Yes, you can set up SMS or email alerts for transactions through the FCMB mobile app or online banking."
+    },
+    {
+        "question": "What is the FCMB token, and how do I use it?",
+        "answer": "The FCMB token is a security device used for authorizing online transactions. You will be prompted to enter a token code for certain transactions on online banking."
+    },
+    {
+        "question": "How do I reset my FCMB mobile app PIN?",
+        "answer": "To reset your PIN, click on 'Forgot PIN' on the login screen of the FCMB mobile app and follow the verification process."
+    },
+    {
+        "question": "Can I request a cheque book through FCMB online banking?",
+        "answer": "Yes, you can request a cheque book by logging into FCMB online banking and selecting 'Cheque Services.'"
+    },
+    {
+        "question": "How do I add a beneficiary to my FCMB online banking?",
+        "answer": "Log in to your FCMB online banking, go to 'Transfers,' and click 'Add Beneficiary.'"
+    },
+    {
+        "question": "How do I schedule a recurring payment using FCMB online banking?",
+        "answer": "In FCMB online banking, go to 'Payments,' choose the biller or recipient, and select the option to schedule recurring payments."
+    },
+    {
+        "question": "What is the process for cancelling a standing order in FCMB online banking?",
+        "answer": "To cancel a standing order, log in to FCMB online banking, navigate to 'Payments,' and select 'Cancel Standing Order.'"
+    },
+    {
+        "question": "Can I track my loan repayment progress using FCMB online banking?",
+        "answer": "Yes, log in to FCMB online banking, navigate to 'Loans,' and you can track your repayment progress and view schedules."
+    },
+    {
+        "question": "How do I reset my FCMB USSD PIN?",
+        "answer": "Dial *329# and follow the prompt to reset your USSD PIN. You will need to confirm your account details."
+    },
+    {
+        "question": "How do I view my pending transactions in FCMB online banking?",
+        "answer": "To view pending transactions, log in to FCMB online banking, go to 'Transactions,' and select 'Pending Transactions.'"
+    },
+    {
+        "question": "Can I manage multiple FCMB accounts in one mobile app?",
+        "answer": "Yes, you can manage multiple FCMB accounts under one profile in the mobile app by linking them during setup."
+    },
+    {
+        "question": "What happens if I lose my FCMB token?",
+        "answer": "If you lose your FCMB token, contact FCMB customer care immediately to deactivate it and request a replacement."
+    },
+    {
+        "question": "Can I update my contact information via the FCMB mobile app?",
+        "answer": "Yes, you can update your phone number and email address through the 'Profile' section in the FCMB mobile app."
+    },
+    {
+        "question": "How do I deactivate FCMB mobile banking?",
+        "answer": "To deactivate mobile banking, contact FCMB customer service or visit a branch to submit a deactivation request."
+    },
+    {
+        "question": "How do I check my FCMB loan balance?",
+        "answer": "You can check your loan balance through FCMB online banking or the mobile app under the 'Loans' section."
+    },
+    {
+        "question": "What is the maximum amount I can transfer to other banks using the FCMB mobile app?",
+        "answer": "The maximum transfer amount to other banks via the mobile app is ₦1,000,000 per day, which can be increased by visiting a branch."
+    },
+    {
+        "question": "How do I enable biometric login for the FCMB mobile app?",
+        "answer": "Go to the 'Settings' section of the FCMB mobile app and enable biometric login using fingerprint or face recognition."
+    },
+    {
+        "question": "Can I view my loan eligibility on the FCMB mobile app?",
+        "answer": "Yes, you can view loan eligibility by logging into the app and navigating to the 'Loans' section."
+    },
+    {
+        "question": "How do I view FCMB foreign exchange rates?",
+        "answer": "You can view the latest foreign exchange rates through the FCMB website or mobile app in the 'FX Rates' section."
+    },
+    {
+        "question": "Can I open a joint account through FCMB online services?",
+        "answer": "No, joint accounts must be opened in person at an FCMB branch due to the documentation required."
+    },
+    {
+        "question": "How do I generate a transaction receipt in FCMB online banking?",
+        "answer": "Log in to online banking, navigate to 'Transactions,' and select 'View Receipt' for any completed transaction."
+    },
+    {
+        "question": "How do I change my withdrawal limit for FCMB ATMs?",
+        "answer": "You can change your ATM withdrawal limit by visiting an FCMB branch or calling customer care for assistance."
+    },
+    {
+        "question": "How do I manage my beneficiaries on FCMB online banking?",
+        "answer": "You can manage your beneficiaries by logging in to FCMB online banking and selecting 'Beneficiary Management' under the 'Transfers' tab."
+    },
+    {
+        "question": "Can I request for a bank draft online?",
+        "answer": "No, bank drafts can only be requested at FCMB branches."
+    },
+    {
+        "question": "How do I enable two-factor authentication for FCMB online banking?",
+        "answer": "Log in to online banking, go to 'Security Settings,' and enable two-factor authentication (2FA) for added protection."
+    },
+    {
+        "question": "Can I get transaction reports through FCMB online banking?",
+        "answer": "Yes, you can download detailed transaction reports in FCMB online banking by selecting 'Transaction History' and downloading the report. The bot can assist by listing recent transactions."
+    },
+    {
+        "question": "How do I report a lost or stolen card using FCMB mobile services?",
+        "answer": "To report a lost or stolen card, log in to the mobile app, go to 'Card Management,' and select 'Report Lost or Stolen Card.'"
+    }
+]
