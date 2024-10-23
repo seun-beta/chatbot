@@ -1,6 +1,3 @@
-Here’s the revised `README.md` for the **FCMB Chatbot Backend (FastAPI)** with the tests section removed:
-
-```markdown
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
@@ -134,4 +131,5 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 
 - Special thanks to FastAPI for making API development fast and easy.
 - Thanks to OpenAI GPT-4 and Elasticsearch for powering intelligent chatbot responses.
+# chatbot
 # chatbot
